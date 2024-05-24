@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Backend Development
 - 💬 Ask me anything about Android Development, Java, and XML
 - 📫 How to reach me: toheedrehman110@gmail.com
-- 😄 My website: [uoswabi.edu.pk](https://www.uoswabi.edu.pk/)
 - ⚡ Fun fact: I enjoy optimizing network switches and exploring new technologies in mobile development
 
 ### Connect with me:
